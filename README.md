@@ -20,6 +20,10 @@ The worksheet is prepoulated with examples as a reference. Remove lines if not r
 
 ![tags_by_operating_System](https://github.com/user-attachments/assets/23a0bb1f-70b9-4ae5-a90c-df026e1db313)
 
+## Tags Based on FQDN
+
+The tag is create on FQDN contains. For example, if you want to tag all your servers in the production environment and the naming convention is "server1-prod-internal" you add prod.internal as the value
+
 
 # How to use the tool
 
