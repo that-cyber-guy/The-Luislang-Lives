@@ -16,6 +16,18 @@ Tags based can be based on CIDR or IPv4 ranges comma separated.
 
 ## Tags Based on Operating System
 
+The tag is applied using filter operating_system is equal to. 
+
+For example to tag all Windows Server Operating systems we add microsoft windows server in the operating_system column
+
+![os Example](https://github.com/user-attachments/assets/4868e7b3-3a6a-44a6-a05f-e8463d34b1b0)
+
+This tag will be applied to all Windows Server Operating systems.
+
+![image](https://github.com/user-attachments/assets/73ef51aa-fdca-4527-b437-4be19ce46c69)
+
+
+
 The worksheet is prepoulated with examples as a reference. Remove lines if not required.
 
 ![tags_by_operating_System](https://github.com/user-attachments/assets/23a0bb1f-70b9-4ae5-a90c-df026e1db313)
