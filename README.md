@@ -14,16 +14,11 @@ Tags based can be based on CIDR or IPv4 ranges comma separated.
 
 ![tags_ipv4](https://github.com/user-attachments/assets/951e23ff-12b2-4054-8781-bd7934c4bf22)
 
-
-
-
-
-
 ## Tags Based on Operating System
 
-## Tags based on FQDN
+The worksheet is prepoulated with examples as a reference. Remove lines if not required.
 
-
+![tags_by_operating_System](https://github.com/user-attachments/assets/23a0bb1f-70b9-4ae5-a90c-df026e1db313)
 
 
 # How to use the tool
