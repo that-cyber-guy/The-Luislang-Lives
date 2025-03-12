@@ -1,6 +1,6 @@
 # The-Luislang-Lives
 
-The script is used to create the following tags in Tenable Vulnerability Management 
+The script is used to create tags in Tenable Vulnerability Management 
 
 # How the tool works
 
