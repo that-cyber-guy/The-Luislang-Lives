@@ -26,8 +26,6 @@ This tag will be applied to all Windows Server Operating systems.
 
 ![image](https://github.com/user-attachments/assets/73ef51aa-fdca-4527-b437-4be19ce46c69)
 
-
-
 The worksheet is prepoulated with examples as a reference. Remove lines if not required.
 
 ![tags_by_operating_System](https://github.com/user-attachments/assets/23a0bb1f-70b9-4ae5-a90c-df026e1db313)
@@ -41,7 +39,18 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 # How to use the tool
 
 ## Create API User
-1. 
+
+1. Create a user in Tenable Vulnerability Manager and assign the 'Scan Manager role'
+
+   ![create_user_1](https://github.com/user-attachments/assets/810013bb-a275-4fee-9540-af2da78aba3a)
+
+   ![user config 3](https://github.com/user-attachments/assets/06dc9b42-4fa4-4522-ae01-550d9fcba0f0)
+
+   ![generate API key 1](https://github.com/user-attachments/assets/9b29f765-96a9-4571-9a28-a6df08f1d102)
+
+   ![api key 2](https://github.com/user-attachments/assets/18a860b6-06e6-43e6-8e11-163e04362a77)
+
+   ![copy api key](https://github.com/user-attachments/assets/11e46937-544e-424c-8ef5-31a5d1a0807d)
 
 
 ## Modify Spreadsheet
