@@ -8,8 +8,16 @@ The tool creates the following asset tags in Tenable Vulnerabiliy Management by 
 
 ![worksheet](https://github.com/user-attachments/assets/8fc7e678-396c-49b8-a23f-db296d9e17f5)
 
-
 ## Tags based on IPv4
+
+Tags based can be based on CIDR or IPv4 ranges comma separated.
+
+![tags_ipv4](https://github.com/user-attachments/assets/951e23ff-12b2-4054-8781-bd7934c4bf22)
+
+
+
+
+
 
 ## Tags Based on Operating System
 
