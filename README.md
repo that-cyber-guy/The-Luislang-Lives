@@ -71,7 +71,7 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 
    ![copy api key](https://github.com/user-attachments/assets/11e46937-544e-424c-8ef5-31a5d1a0807d)
 
-   ## Modify Spreadsheet
+## Modify Spreadsheet
 
 1. Modify spreadsheet with the relvant values
 2. Copy spreadsheet to the working folder.
