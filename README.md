@@ -36,7 +36,14 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 
 ![image](https://github.com/user-attachments/assets/583b3b01-339c-4ad4-8a6d-b4e58c217e87)
 
-# How to use the tool
+# Prerequistes
+
+## Create Python virtual environment
+
+1. Download files from Github
+3. Change api_config.sh to excutable : chmod +x api_config.sh
+4. run ./api_config.sh
+5. Activate python virtual environment : source pytenable/bin/activate
 
 ## Create API User
 
@@ -64,20 +71,16 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 
    ![copy api key](https://github.com/user-attachments/assets/11e46937-544e-424c-8ef5-31a5d1a0807d)
 
-   
+   ## Modify Spreadsheet
+
+1. Modify spreadsheet with the relvant values
+2. Copy spreadsheet to the working folder.
 
 
-## Modify Spreadsheet
 
-1. Modify the data.xlsx with the required values
-2. Copy data.xlsx to the working directory
 
-## Prerequistes
+4. Copy data.xlsx to the working directory
 
-1. Download files from Github
-2. Change api_config.sh to excutable : chmod +x api_config.sh
-3. run ./api_config.sh
-4. Activate python virtual environment : source pytenable/bin/activate
-
+#
 
 
