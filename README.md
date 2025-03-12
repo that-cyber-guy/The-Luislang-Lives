@@ -79,8 +79,6 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 
 
 
-4. Copy data.xlsx to the working directory
-
-#
+  
 
 
