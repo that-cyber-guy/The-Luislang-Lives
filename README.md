@@ -24,8 +24,18 @@ The worksheet is prepoulated with examples as a reference. Remove lines if not r
 
 The tag is create on FQDN contains. For example, if you want to tag all your servers in the production environment and the naming convention is "server1-prod-internal" you add prod.internal as the value
 
+![image](https://github.com/user-attachments/assets/583b3b01-339c-4ad4-8a6d-b4e58c217e87)
 
 # How to use the tool
+
+## Create API User
+1. 
+
+
+## Modify Spreadsheet
+
+1. Modify the data.xlsx with the required values
+2. Copy data.xlsx to the working directory
 
 ## Prerequistes
 
@@ -34,7 +44,5 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 3. run ./api_config.sh
 4. Activate python virtual environment : source pytenable/bin/activate
 
-## Modify Spreadsheet
 
-7. 
 
