@@ -66,10 +66,6 @@ def main():
         process_tags(tio, EXCEL_PATH, "tags_for_fqdn", 'fqdn', 'eq')
         logging.info("Processing tags for OS with 'match' filter type")
 
-        # # Process User Groups
-        # process_user_groups(tio, EXCEL_PATH, 'user_groups')
-        # print_error_groups()
-
         # Continue with other sheets/processes as needed
         logging.info("Completed processing.")
         print_error_tags()
