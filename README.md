@@ -75,6 +75,11 @@ The tag is create on FQDN contains. For example, if you want to tag all your ser
 
 1. Modify spreadsheet with the relvant values
 2. Copy spreadsheet to the working folder.
+3. Run the script : python3 ./main.py
+4. Enter your API keys
+   ![image](https://github.com/user-attachments/assets/cded3f28-9f1a-441f-9a94-c6548a4e49c0)
+5. Review error.log for any errors
+6. View Asset tags in Tenable vulnerability management  
 
 
 
